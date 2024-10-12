@@ -56,7 +56,7 @@ int monthCode(int month){
     }
 }
 
-
+//Main function 
 int main(){
     int date,month,year,totalDays,temp,day;
     char days[7][20]={"Saturday", "Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday"};
